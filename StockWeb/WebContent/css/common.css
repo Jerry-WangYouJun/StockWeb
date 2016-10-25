@@ -1,0 +1,7 @@
+.subtotal{
+	font-weight: bold;
+	font-size: 12px;
+	color: red;
+}
+.td{border:solid #95B8E7; border-width:0px 1px 1px 0px;  padding-left:10px;}
+.table{border:solid #95B8E7; border-width:1px 0px 0px 1px;}
